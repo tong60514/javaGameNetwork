@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/Network/src/NetWorkMethod/Net_GameSetting.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/EventHandler/Instruction.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/NetWorkMethod/Net_GameEnd.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/UDPModule/UDPdataReader.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/NetWorkMethod/Net_UpdateConnection.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/GameTimer/Task.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/ExceptionServer/GameException.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/TCPModule/TCPSocketAction.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/NetWorkMethod/Net_Sucess.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/GameTimer/GameTask.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/UDPModule/UDPdatacaster.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/NetWorkMethod/Net_Method.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/NetWorkMethod/Net_GameCreateFail.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/GameTimer/GameTimer.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/ServerModule/Server.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/NetWorkMethod/Net_Message.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/ServerModule/closable.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/UDPModule/UDPSocket.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/NetWorkMethod/Net_BacktoWait.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/ServerModule/ServerCmp.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/ExceptionServer/NetworkException.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/UDPModule/SerializedObjectHandler.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/EventHandler/TaskCondition.java</file>
+            <file>file:/C:/Users/user/Documents/Network/src/ServerModule/Game.java</file>
+        </group>
+    </open-files>
+</project-private>
